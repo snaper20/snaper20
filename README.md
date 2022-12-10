@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snaper20
-- 👀 I’m interested in competetive programming
+- 👀 I’m interested in Web Development,App Development,Artificial Intelligencce,Machine learning
 - 🌱 I’m currently learning B.Tech in AI
-- 💞️ I’m looking to collaborate on CP
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @saptarshiparui973@gmail.com
 
 <!---
